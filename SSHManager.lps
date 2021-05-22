@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="SSHManager.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="24"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="frmprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmPrincipal"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="92"/>
+        <CursorPos X="37" Y="99"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="562"/>
+        <CursorPos X="15" Y="578"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="78" Column="95" TopLine="52"/>
+      </Position1>
+      <Position2>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="79" TopLine="55"/>
+      </Position2>
+      <Position3>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="78" Column="90" TopLine="56"/>
+      </Position3>
+      <Position4>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="79" Column="45" TopLine="56"/>
+      </Position4>
+      <Position5>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="78" Column="32" TopLine="57"/>
+      </Position5>
+      <Position6>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="64" Column="16" TopLine="57"/>
+      </Position6>
+      <Position7>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="82" Column="9" TopLine="57"/>
+      </Position7>
+      <Position8>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="80" Column="20" TopLine="57"/>
+      </Position8>
+      <Position9>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="20" Column="32"/>
+      </Position9>
+      <Position10>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="60" Column="73" TopLine="43"/>
+      </Position10>
+      <Position11>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="83" Column="4" TopLine="58"/>
+      </Position11>
+      <Position12>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="60" Column="13" TopLine="43"/>
+      </Position12>
+      <Position13>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="66" Column="11" TopLine="35"/>
+      </Position13>
+      <Position14>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="57" Column="36" TopLine="35"/>
+      </Position14>
+      <Position15>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="27" Column="20" TopLine="10"/>
+      </Position15>
+      <Position16>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="26" Column="20" TopLine="10"/>
+      </Position16>
+      <Position17>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="25" Column="20" TopLine="10"/>
+      </Position17>
+      <Position18>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="47" Column="14" TopLine="30"/>
+      </Position18>
+      <Position19>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="40" TopLine="23"/>
+      </Position19>
+      <Position20>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="46" Column="25" TopLine="30"/>
+      </Position20>
+      <Position21>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="41" Column="52" TopLine="33"/>
+      </Position21>
+      <Position22>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="42" Column="52" TopLine="34"/>
+      </Position22>
+      <Position23>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="44" Column="52" TopLine="36"/>
+      </Position23>
+      <Position24>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="106" Column="112" TopLine="83"/>
+      </Position24>
+      <Position25>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="105" Column="112" TopLine="82"/>
+      </Position25>
+      <Position26>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="106" Column="112" TopLine="83"/>
+      </Position26>
+      <Position27>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="114" Column="3" TopLine="82"/>
+      </Position27>
+      <Position28>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="115" Column="3" TopLine="83"/>
+      </Position28>
+      <Position29>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="54" Column="55" TopLine="19"/>
+      </Position29>
+      <Position30>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="79" Column="25" TopLine="62"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="5">
+      <Item1>
+        <Expression Value="Host.Strings[0]"/>
+      </Item1>
+      <Item2>
+        <Expression Value="Copy(Host.Strings[0]"/>
+      </Item2>
+      <Item3>
+        <Expression Value="Pos('Host',Host.Strings[0])"/>
+      </Item3>
+      <Item4>
+        <Expression Value="Host.Strings[0].Length"/>
+      </Item4>
+      <Item5>
+        <Expression Value="Host"/>
+      </Item5>
+    </Watches>
+  </Debugging>
+</CONFIG>

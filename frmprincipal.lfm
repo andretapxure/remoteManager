@@ -1,0 +1,58 @@
+object Form1: TForm1
+  Left = 792
+  Height = 356
+  Top = 284
+  Width = 597
+  Caption = 'SSHManager'
+  ClientHeight = 356
+  ClientWidth = 597
+  OnCreate = FormCreate
+  LCLVersion = '2.0.12.0'
+  object lbHosts: TListBox
+    Left = 16
+    Height = 328
+    Top = 16
+    Width = 268
+    ItemHeight = 0
+    OnClick = lbHostsClick
+    OnDblClick = lbHostsDblClick
+    TabOrder = 0
+  end
+  object pcFiles: TPageControl
+    Left = 296
+    Height = 328
+    Top = 16
+    Width = 293
+    ActivePage = tsHost
+    TabIndex = 0
+    TabOrder = 1
+    OnChange = pcFilesChange
+    object tsHost: TTabSheet
+      Caption = 'Host'
+      ClientHeight = 300
+      ClientWidth = 285
+      object mHost: TMemo
+        Left = 0
+        Height = 300
+        Top = 0
+        Width = 285
+        Align = alClient
+        OnChange = mHostChange
+        TabOrder = 0
+      end
+    end
+    object tsPubKey: TTabSheet
+      Caption = 'Pub Key'
+      ClientHeight = 308
+      ClientWidth = 509
+      object mPubKey: TMemo
+        Left = 0
+        Height = 308
+        Top = 0
+        Width = 509
+        Align = alClient
+        TabOrder = 0
+      end
+    end
+  end
+end
